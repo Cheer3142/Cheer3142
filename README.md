@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cheer-page-eight.vercel.app"><img src="https://img.shields.io/badge/Portfolio-cheer--page-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://cheer.cerosoft.net"><img src="https://img.shields.io/badge/Portfolio-cheer.cerosoft.net-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
@@ -58,4 +58,4 @@
 </p>
 
 ---
-<p align="center">📫 Find more of my work at <a href="https://cheer-page-eight.vercel.app">cheer-page-eight.vercel.app</a></p>
+<p align="center">📫 Find more of my work at <a href="https://cheer.cerosoft.net">cheer.cerosoft.net</a></p>
