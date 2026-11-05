@@ -35,18 +35,20 @@
 
 **Also build with**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### 🚀 Featured projects
 
 | Project | What it does |
 |---|---|
-| 🌫️ [Atmospheric-LiDAR](https://github.com/Cheer3142/Atmospheric-LiDAR) | Data processing tools for atmospheric LiDAR measurements |
-| ⚡ [FPGA-UARTFIFO](https://github.com/Cheer3142/FPGA-UARTFIFO) | UART with FIFO buffering in VHDL |
-| 🎯 [NanoPZ-Focal-Plane-Mask-Ctrl](https://github.com/Cheer3142/NanoPZ-Focal-Plane-Mask-Ctrl) | Python control of Newport NanoPZ actuators for a focal-plane mask |
-| 📡 [DOPPLER-ONLY-TRACKING-IMPLEMENT](https://github.com/Cheer3142/DOPPLER-ONLY-TRACKING-IMPLEMENT) | Target tracking from Doppler measurements only |
-| 🧭 [BEARING-ONLY-LOCALIZATION-IMPLEMENT](https://github.com/Cheer3142/BEARING-ONLY-LOCALIZATION-IMPLEMENT) | Source localization from bearing measurements |
-| 🧠 [Gradient-FREE-Domain-Adaptation](https://github.com/Cheer3142/Gradient-FREE-Domain-Adaptation) | Domain adaptation without gradient-based fine-tuning |
+| 🌫️ [Atmospheric-LiDAR](https://github.com/Cheer3142/Atmospheric-LiDAR) | Acquisition & analysis toolkit for NARIT's Mie LiDAR — aerosol profiles from oscilloscope, transient-recorder and MPL data |
+| 🎯 [NanoPZ-Focal-Plane-Mask-Ctrl](https://github.com/Cheer3142/NanoPZ-Focal-Plane-Mask-Ctrl) | Closed-loop focal-plane mask alignment: Newport nano-piezo actuator driven by FWHM measured on a GigE camera |
+| 🔭 [Fourier-Propagation-Simulation](https://github.com/Cheer3142/Fourier-Propagation-Simulation) | Fourier-optics simulation of telescope pupils, apodization and focal-plane intensity |
+| ⚡ [FPGA-SPI-admv1013](https://github.com/Cheer3142/FPGA-SPI-admv1013) | VHDL SPI master on FPGA controlling ADMV1013/1014 microwave up/down converters |
+| 🧠 [Gradient-FREE-Domain-Adaptation](https://github.com/Cheer3142/Gradient-FREE-Domain-Adaptation) | Training-free domain adaptation for open-vocabulary segmentation via LoRA adapter retrieval & fusion |
+| 🌬️ [firmware-one-openair](https://github.com/Cheer3142/firmware-one-openair) | Work on AirGradient ONE / Open Air air-quality monitor firmware |
+| 🏢 [CondoMateV2](https://github.com/Cheer3142/CondoMateV2) | Condo management PWA — parcel scanning, residents, online backup & failover |
 
 ### 📊 GitHub stats
 
