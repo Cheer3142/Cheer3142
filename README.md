@@ -15,7 +15,7 @@ I build the whole measurement chain: the optics and electronics that sense, the 
 | | [Fourier-Propagation-Simulation](https://github.com/Cheer3142/Fourier-Propagation-Simulation) | Fourier-optics simulation of telescope pupils, apodization and focal-plane intensity |
 | **Hardware & firmware** | [FPGA-SPI-admv1013](https://github.com/Cheer3142/FPGA-SPI-admv1013) | VHDL SPI master controlling ADMV1013/1014 microwave up/down converters |
 | | [firmware-one-openair](https://github.com/Cheer3142/firmware-one-openair) | Work on AirGradient ONE / Open Air air-quality monitor firmware |
-| **Learning** | [Gradient-FREE-Domain-Adaptation](https://github.com/Cheer3142/Gradient-FREE-Domain-Adaptation) | Training-free domain adaptation for open-vocabulary segmentation via LoRA adapter retrieval and fusion |
+| **Machine Learning** | [Gradient-FREE-Domain-Adaptation](https://github.com/Cheer3142/Gradient-FREE-Domain-Adaptation) | Training-free domain adaptation for open-vocabulary segmentation via LoRA adapter retrieval and fusion |
 | **Software** | [CondoMateV2](https://github.com/Cheer3142/CondoMateV2) | Condo management PWA: parcel scanning, residents, online backup and failover |
 
 ### Toolbox
