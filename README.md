@@ -53,8 +53,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Cheer3142&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheer3142&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cheer3142&theme=tokyonight" alt="GitHub stats">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cheer3142&theme=tokyonight" alt="Top languages">
 </p>
 
 ---
