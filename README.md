@@ -2,7 +2,7 @@
   <img src="assets/header.svg" width="100%" alt="Patcharadanai Sombatsatien: instrumentation, signal processing and ML. Oscilloscope trace of a LiDAR return signal.">
 </a>
 
-I build the whole measurement chain: the optics and electronics that sense, the firmware that acquires the signal, and the math and models that turn it into an answer. I've worked on atmospheric LiDAR, telescope prototypes, FPGA links to RF hardware, and air-quality sensors, and I'm currently researching domain adaptation for open-vocabulary segmentation.
+I build the whole measurement chain: the optics and electronics that sense, the firmware that acquires the signal, and the math and models that turn it into an answer. I'm currently working on **[AirGradient](https://www.airgradient.com/)** air-quality monitor firmware. Before that I worked on atmospheric LiDAR, telescope prototypes and FPGA links to RF hardware, and I research domain adaptation for open-vocabulary segmentation.
 
 **Portfolio:** [cheer.cerosoft.net](https://cheer.cerosoft.net) · **Based in** Chiang Mai, Thailand
 
